@@ -1,0 +1,22 @@
+PODS:
+  - AWSCognitoIdentityProvider (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSCore (2.4.16)
+  - IQKeyboardManager (4.0.8)
+  - UIFloatLabelTextField (1.2.7)
+
+DEPENDENCIES:
+  - AWSCognitoIdentityProvider (~> 2.4.16)
+  - AWSCore (~> 2.4.16)
+  - IQKeyboardManager
+  - UIFloatLabelTextField
+
+SPEC CHECKSUMS:
+  AWSCognitoIdentityProvider: 1c74bb819fc5f74a708a4a8e0be8b235a959ab86
+  AWSCore: 7c3c129991e6387bcbad7132bc3661e7135754db
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  UIFloatLabelTextField: ec6e82ae7cc06185bda955a9dce17e81cf34327c
+
+PODFILE CHECKSUM: 3e18ad7a2b6e9fc89c21933e66b511ba56f904d0
+
+COCOAPODS: 1.2.0.rc.1
